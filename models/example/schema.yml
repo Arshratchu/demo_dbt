@@ -24,7 +24,7 @@ models:
     - name: my_model
       description: "A starter dbt model"
       columns:
-          - name: Name
+          - name: NAME
             description: "The primary key for this table"
             tests:
                 - unique
