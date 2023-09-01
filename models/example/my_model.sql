@@ -11,4 +11,4 @@ select
   STATE,
   COUNTRY,
   round(LATITUDE, 2) as LATITUDE,
-  round(LONGITUDE, 2) as LONGITUDE;
+  round(LONGITUDE, 2) as LONGITUDE
