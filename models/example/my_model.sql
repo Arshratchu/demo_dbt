@@ -5,7 +5,7 @@
 ) }}
 
 select
-  NAME,
+  "Name",
   STREETADDRESS,
   upper(CITY) as CITY,
   STATE,
